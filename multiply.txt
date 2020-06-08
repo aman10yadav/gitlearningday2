@@ -1,0 +1,5 @@
+int main()
+{
+d = 3*4;
+return d;
+}
